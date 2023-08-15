@@ -1,5 +1,5 @@
 ![MasterHead](https://media.giphy.com/media/k9l7jqdiPquh4rX3mE/giphy.gif)
-<div style="width:100%;height:0;padding-bottom:38%;position:relative;"><iframe src="https://giphy.com/embed/KRFxX5zsOUqGuG3iIa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KRFxX5zsOUqGuG3iIa">via GIPHY</a></p>
+
 
 <h1 align="center">Hi 👋, I'm Sayantan Patra</h1>
 <h3 align="center">Student at ITER-SOA | B.Tech CSE | Python, Java, Android, and Web Developer | Cybersecurity Analyst | Passionate about Tech and Learning</h3>
