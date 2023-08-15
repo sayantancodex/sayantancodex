@@ -1,10 +1,13 @@
 ![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Patra</h1>
-<h3 align="center">Student |B.Tech CSE | Python, Java, Android, and Web Developer | Cybersecurity Analyst | Passionate about Tech and Learning</h3>
+<h3 align="center">Student at ITER-SOA | B.Tech CSE | Python, Java, Android, and Web Developer | Cybersecurity Analyst | Passionate about Tech and Learning</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantancodex&label=Profile%20views&color=0e75b6&style=flat" alt="sayantancodex" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayantancodex" alt="sayantancodex" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantancodex&label=Profile%20views&color=0e75b6&style=flat" alt="sayantancodex" /> </p>
 
 - 🌱 I’m currently learning **DBMS, Android Dev**
 
