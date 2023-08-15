@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://media.giphy.com/media/k9l7jqdiPquh4rX3mE/giphy.gif)]
 
 <h1 align="center">Hi 👋, I'm Sayantan Patra</h1>
 <h3 align="center">Student at ITER-SOA | B.Tech CSE | Python, Java, Android, and Web Developer | Cybersecurity Analyst | Passionate about Tech and Learning</h3>
