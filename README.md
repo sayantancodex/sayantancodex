@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/k9l7jqdiPquh4rX3mE/giphy.gif)
+![MasterHead](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
 
 
 <h1 align="center">Hi 👋, I'm Sayantan Patra</h1>
