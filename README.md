@@ -1,6 +1,6 @@
 ![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Patra</h1>
-<h3 align="center">Student at ITER-SOA | B.Tech CSE | Python, Java, Android, and Web Developer | Cybersecurity Analyst | Passionate about Tech and Learning</h3>
+<h3 align="center">Student | B.Tech CSE | Python, Java, Android, and Web Developer | Cybersecurity Analyst | Passionate about Tech and Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantancodex&label=Profile%20views&color=0e75b6&style=flat" alt="sayantancodex" /> </p>
 
