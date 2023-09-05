@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"/>
 
 
-- 🌱 I’m currently learning **DBMS, Android Dev**
+- 🌱 I’m currently learning **Data Structures and Algorithm, Android Dev**
 
 - 💬 Ask me about **Android, Python, Java, SQL**
 
