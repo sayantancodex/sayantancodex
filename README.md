@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantancodex&show_icons=true&locale=en" alt="sayantancodex" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantancodex&" alt="sayantancodex" /></p>
+
+<a href="https://app.daily.dev/sayantanpatra"><img src="https://api.daily.dev/devcards/v2/aWUT7eO66HMbnZit7BIuf.png?type=default&r=4vl" width="356" alt="Sayantan Patra's Dev Card"/></a>
