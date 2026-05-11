@@ -1,39 +1,133 @@
-![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, I'm Sayantan Patra </h1>
-<h3 align="center">Student | B.Tech CSE | Python, Java, Android, and Web Developer | Cybersecurity Enthuciast | Passionate about Tech and Learning</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantancodex&label=Profile%20views&color=0e75b6&style=flat" alt="sayantancodex" /> </p>
+<img src="https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif" style="object-fit:cover;" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayantancodex" alt="sayantancodex" /></a> </p>
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=SAYANTAN+PATRA" />
+</h1>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Python+%7C+Java+%7C+Android+Dev;Cybersecurity+Enthusiast)
 
-- 🌱 I’m currently learning **Data Structures and Algorithm, Android Dev**
-
-- 💬 Ask me about **Android, Python, Java, SQL**
-
-- 📫 How to reach me **sayantanpatra68@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sayantan-patra-ab9a01226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayantan-patra-ab9a01226" height="30" width="40" /></a>
-<a href="https://instagram.com/the_eager_wolverine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_eager_wolverine" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sayantan_patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayantan_patra" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/sayantan-patra-ab9a01226">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/the_eager_wolverine">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/sayantan_patra">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:sayantanpatra68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://app.daily.dev/sayantanpatra">
+    <img src="https://img.shields.io/badge/daily.dev-%23CE3DF3.svg?style=for-the-badge&logo=daily.dev&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="kali linux" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a herf="https://www.kali.org/tools/john/" taget="_blank" rel="noreferer"> <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="burpsuit" width="40" height="40"></a> <a herf="https://www.kali.org/tools/metasploit-framework/" taget="_blank" rel="noreferer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"></a> <a herf="https://www.kali.org/tools/burpsuite/" taget="_blank" rel="noreferer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuit" width="40" height="40"></a> <a herf="https://www.kali.org/tools/nmap/" taget="_blank" rel="noreferer"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="nmap" width="40" height="40"></a>  </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sayantanOG"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sayantanOG" /></a></p><br><br>
+<img src="https://komarev.com/ghpvc/?username=sayantancodex&label=Profile+Views&color=7c3aed&style=flat" />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantancodex&show_icons=true&locale=en&layout=compact" alt="sayantancodex" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantancodex&show_icons=true&locale=en" alt="sayantancodex" /></p>
+---
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantancodex&" alt="sayantancodex" /></p>
+## 🧑‍💻 About Me
 
-<a href="https://app.daily.dev/sayantanpatra"><img src="https://api.daily.dev/devcards/v2/aWUT7eO66HMbnZit7BIuf.png?type=default&r=4vl" width="356" alt="Sayantan Patra's Dev Card"/></a>
+<img align="right" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="280" />
+
+- 🎓 &nbsp; B.Tech CSE student, curious by nature
+- 🌱 &nbsp; Currently grinding **Data Structures & Algorithms** + **Android Dev**
+- 💬 &nbsp; Ask me about **Android, Python, Java, SQL**
+- 📬 &nbsp; Reach me at **sayantanpatra68@gmail.com**
+- ⚡ &nbsp; Fun fact — I think I am funny *(unconfirmed)*
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Security & Design**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sayantancodex&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantancodex&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantancodex&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sayantancodex&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## 📇 Dev Card
+
+<a href="https://app.daily.dev/sayantanpatra">
+  <img src="https://api.daily.dev/devcards/v2/aWUT7eO66HMbnZit7BIuf.png?type=default&r=4vl" width="300" alt="Sayantan Patra's Dev Card"/>
+</a>
+
+---
+
+<div align="center">
+
+☕ &nbsp; If you like what I build, you can fuel more of it
+
+<a href="https://www.buymeacoffee.com/sayantanOG">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy me a coffee" />
+</a>
+
+<br/><br/>
+
+*Building. Breaking. Learning. Repeat.*
+
+</div>
