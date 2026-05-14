@@ -112,7 +112,7 @@
 
 ## 📇 Dev Card
 
-<img align="right" src="https://github.com/sayantancodex/sayantancodex/blob/main/octocat-1778517847639.png" width="400" />
+<img align="right" src="https://github.com/sayantancodex/sayantancodex/blob/main/octocat-1778517847639.png" width="350" />
 
 <a href="https://app.daily.dev/sayantanpatra">
   <img src="https://api.daily.dev/devcards/v2/aWUT7eO66HMbnZit7BIuf.png?type=default&r=4vl" width="300" alt="Sayantan Patra's Dev Card"/>
